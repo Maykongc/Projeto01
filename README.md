@@ -16,4 +16,4 @@ chmod 244 python_script.sh
 
 echo "Finalizando o Script" 
 
-# O código verifica uma senha e realiza operações matemáticas e comparações lógicas com base em dois números fornecidos pelo usuário.
+# O código python verifica uma senha e realiza operações matemáticas e comparações lógicas com base em dois números fornecidos pelo usuário.
